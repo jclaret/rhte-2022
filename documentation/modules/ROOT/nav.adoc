@@ -9,3 +9,7 @@
 * xref:03-acm.adoc[3. Advanced Cluster Management]
 ** xref:03-acm.adoc#operator[Install Operator]
 ** xref:03-acm.adoc#deploy[Deploy Cluster]
+
+* xref:04-gitops.adoc[3. GitOps]
+** xref:04-gitops.adoc#operator[Install Operator]
+** xref:04-gitops.adoc#deploy[Deploy Application]
