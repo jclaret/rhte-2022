@@ -5,3 +5,7 @@
 * xref:02-deploy.adoc[2. Deploy Service]
 ** xref:02-deploy.adoc#package[Build Service]
 ** xref:02-deploy.adoc#deploy[Deploy Dervice]
+
+* xref:03-acm.adoc[3. Advanced Cluster Management]
+** xref:03-acm.adoc#operator[Install Operator]
+** xref:03-acm.adoc#deploy[Deploy Cluster]
