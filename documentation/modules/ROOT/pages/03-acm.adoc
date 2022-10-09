@@ -1,0 +1,29 @@
+= Avanced Cluster Management
+include::_attributes.adoc[]
+
+[#operator]
+== The Operator
+
+Operator example
+----
+
+[#package]
+== Packaging the Service
+
+You can package the next bash script:
+
+[source,bash,subs="+macros,+attributes"]
+----
+include::example$run.sh[]
+----
+
+[#deploy]
+== Deploy the Service
+
+And then you can deploy the service and execute commands inside:
+
+:podname: apps
+
+include::partial$exec_pod.adoc[]
+
+:!podname:
